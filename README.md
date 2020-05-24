@@ -1,10 +1,10 @@
-## github_Learn 2
+## github_Learn 
 # Task 1
  
 Ques1. What is git and github? 
 
 Ans1. Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-Let me break it down and explain the wording:
+##Let me break it down and explain the wording:
 
 Control System: This basically means that Git is a content tracker. So Git can be used to store content — it is mostly used to store code due to the other features it provides.
 
