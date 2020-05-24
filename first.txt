@@ -1,1 +1,1 @@
-hello there! this is my first text file in git repository.
+bucky is the best dude eva!
