@@ -28,9 +28,6 @@ Ans3. Bitbucket
           AWS CodeCommit
 
 Task 2
-
-
-
 Q1 how does git workflow work ?
 Ans1 
 git workflow mainly contains:
