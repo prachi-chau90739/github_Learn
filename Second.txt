@@ -1,1 +1,4 @@
+changes to second file.
+hello
 changes to second file
+
